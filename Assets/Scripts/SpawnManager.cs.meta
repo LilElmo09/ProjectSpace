@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 790e7f83a37e43f4a90ba986f1f4007c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - obstaculoPrefab: {instanceID: 0}
+  - Papito: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
